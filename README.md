@@ -1,4 +1,4 @@
-# CSCE447Datasets
+# CSCE 447 Datasets
 
 Diamond Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/diamonds
 
